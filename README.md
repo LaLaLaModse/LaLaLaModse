@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/miccy-dev-banner.png" alt="miccy.dev banner" />
+  <img src="https://github.com/miccy/miccy/raw/main/assets/miccy-dev-banner.png" alt="miccy.dev banner" />
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 <!-- Snake Evolution -->
 <div align="center">
   <a href="https://github.com/miccy/snake-evolution">
-    <img src="assets/miccy-snake-cypherpunk.svg" alt="Snake Evolution"/>
+    <img src="https://github.com/miccy/miccy/raw/main/assets/miccy-snake-cypherpunk.svg" alt="Snake Evolution"/>
   </a>
 </div>
 <br>
